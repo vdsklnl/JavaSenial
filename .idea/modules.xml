@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java9/Java9.iml" filepath="$PROJECT_DIR$/Java9/Java9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenial.iml" filepath="$PROJECT_DIR$/JavaSenial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleTest/ModuleTest.iml" filepath="$PROJECT_DIR$/ModuleTest/ModuleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project3/Project3.iml" filepath="$PROJECT_DIR$/Project3/Project3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project4/Project4.iml" filepath="$PROJECT_DIR$/Project4/Project4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project5/Project5.iml" filepath="$PROJECT_DIR$/Project5/Project5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study.iml" filepath="$PROJECT_DIR$/study/study.iml" />
+    </modules>
+  </component>
+</project>
